@@ -1,7 +1,7 @@
 import streamlit as st
 from typing import Generator
 import os
-!pip install groq
+pip install groq
 from groq import Groq
 
 st.set_page_config(page_icon="💬", layout="wide",
